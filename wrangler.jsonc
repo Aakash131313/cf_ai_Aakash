@@ -13,7 +13,8 @@
   "kv_namespaces": [
     {
       "binding": "CHAT_KV",
-      "id": "63d027d7c9ce4fff8d551a127d178b75"
+      "id": "63d027d7c9ce4fff8d551a127d178b75",
+      "preview_id": "2441b98f59394e0b8d504789f5761a3c"
     }
   ]
 }
